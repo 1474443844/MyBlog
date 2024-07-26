@@ -1,4 +1,5 @@
 {
-  "version": 0.01,
-  "content": "使用原生HttpUrlConnection实现GET与POST请求"
+  "versionCode": 1,
+  "version": "1.0.0"
+  "content": "使用Jetpack Compose构建页面，引入okhttp:4.12.0"
 }
